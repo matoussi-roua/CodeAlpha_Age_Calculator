@@ -20,7 +20,7 @@ The Age Calculator is a simple web-based application built with JavaScript that 
 5. Your age will be calculated and displayed on the screen.
 
 ## Demo
-You can see a live demo of the Age Calculator [here](#) (Replace this with the link to your deployed project).
+You can see a live demo of the Age Calculator [here](screenshots/demo.mp4) (Replace this with the link to your deployed project).
 
 ## Screenshots
 ![Screenshot 2](screenshots/capture.png)
