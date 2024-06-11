@@ -40,7 +40,7 @@ Uploading age calculator.mp4…
 
 ## Screenshots
 ![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
+![Screenshot 2](screenshots/Capture d'écran 2024-06-11 155557.png)
 
 ## Contributing
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
