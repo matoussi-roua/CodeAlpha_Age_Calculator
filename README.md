@@ -22,24 +22,7 @@ The Age Calculator is a simple web-based application built with JavaScript that 
 ## Demo
 You can see a live demo of the Age Calculator [here](#) (Replace this with the link to your deployed project).
 
-
-Uploading age calculator.mp4…
-
-
-
-Uploading age calculator.mp4…
-
-
-
-Uploading age calculator.mp4…
-
-
-
-Uploading age calculator.mp4…
-
-
 ## Screenshots
-![Screenshot 1](screenshots/screenshot1.png)
 ![Screenshot 2](screenshots/Capture d'écran 2024-06-11 155557.png)
 
 ## Contributing
