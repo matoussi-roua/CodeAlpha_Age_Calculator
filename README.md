@@ -20,7 +20,7 @@ The Age Calculator is a simple web-based application built with JavaScript that 
 5. Your age will be calculated and displayed on the screen.
 
 ## Demo
-You can see a live demo of the Age Calculator [here](screenshots/demo.mp4) (Replace this with the link to your deployed project).
+You can see a live demo of the Age Calculator [here](screenshots/demo.mp4).
 
 ## Screenshots
 ![Screenshot 2](screenshots/capture.png)
@@ -31,15 +31,9 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 2. Create a new branch (`git checkout -b feature/awesome-feature`).
 3. Make your changes.
 4. Commit your changes (`git commit -am 'Add awesome feature'`).
-5. Push to the branch (`git push origin feature/awesome-feature`).![Uploading Capture d'écran 2024-06-11 155557.png…]()
-![Uploading Capture d'écran 2024-06-11 155557.png…]()
-![Uploading Capture d'écran 2024-06-11 155557.png…]()
-![Uploading Capture d'écran 2024-06-11 155557.png…]()
+5. Push to the branch (`git push origin feature/awesome-feature`).
 
 6. Create a new Pull Request.
-
-## License
-This project is licensed under the [MIT License](LICENSE).
 
 ## Author
 Roua Mattoussi
